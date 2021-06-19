@@ -21,7 +21,7 @@ public class MazeController : MonoBehaviour
     {
         if (myGameData.isDoorOpened && myGameData.isPlayerInMaze)
         {
-
+            entranceAnim.StartDoorAnimationClose();
         }
 
     }

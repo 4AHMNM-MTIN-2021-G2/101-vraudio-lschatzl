@@ -5,8 +5,13 @@ using UnityEngine;
 public class inMazeTrigger : MonoBehaviour
 {
 
+    public GameData myGameData;
+
     public void OnTriggerEnter(Collider other)
     {
-        Debug.Log(other.name);
+        if (other.name =="BodyCollider")
+        {
+            myGameData.isPlayerInMaze = true;
+        }
     }
 }

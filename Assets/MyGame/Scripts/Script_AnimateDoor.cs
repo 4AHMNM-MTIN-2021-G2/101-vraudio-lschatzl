@@ -19,4 +19,10 @@ public class Script_AnimateDoor : MonoBehaviour
         myAnimator.SetBool("openDoor",true);
         myGameData.isDoorOpened = true;
     }
+
+    public void StartDoorAnimationClose()
+    {
+        myAnimator.SetBool("openDoor", false);
+        myGameData.isDoorOpened = false;
+    }
 }
