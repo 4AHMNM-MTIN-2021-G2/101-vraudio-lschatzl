@@ -5,6 +5,7 @@ using UnityEngine;
 public class Script_AnimateDoor : MonoBehaviour
 {
 
+    public GameData myGameData;
     private Animator myAnimator;
 
     // Start is called before the first frame update
@@ -16,5 +17,6 @@ public class Script_AnimateDoor : MonoBehaviour
     public void StartDoorAnimationOpen()
     {
         myAnimator.SetBool("openDoor",true);
+        myGameData.isDoorOpened = true;
     }
 }

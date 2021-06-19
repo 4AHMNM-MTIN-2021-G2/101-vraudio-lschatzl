@@ -40,6 +40,9 @@ Screenshots (concept and experience), Video
 
 ### Limitations: 
 
-### Lessons Learned: 
+### Lessons Learned:
+Scriptable Objects
+how to utalize the SteamVR Sample Scene
+How to use Unity Animator
 
 Copyright by lschatzl :)
