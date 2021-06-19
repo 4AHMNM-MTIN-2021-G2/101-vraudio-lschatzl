@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: lschatzlGameData
   m_EditorClassIdentifier: 
   isDoorOpened: 1
+  isPlayerInMaze: 0
