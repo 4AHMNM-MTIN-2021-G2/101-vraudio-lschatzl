@@ -42,6 +42,7 @@ Screenshots (concept and experience), Video
 
 ### Lessons Learned:
 Scriptable Objects
+how to use SteamVR
 how to utalize the SteamVR Sample Scene
 How to use Unity Animator
 
