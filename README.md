@@ -29,7 +29,7 @@ Oculus Rift/S, Vive;
 Tested on Oculus Rift S
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+![grafik](https://user-images.githubusercontent.com/83702255/123547749-463b7280-d762-11eb-8cef-d492f4f5a6c3.png)
 
 ### Third party material: 
 models for dog and cat
