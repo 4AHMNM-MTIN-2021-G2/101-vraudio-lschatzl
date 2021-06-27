@@ -1,4 +1,4 @@
-# 01-maze-audiocode-smeerws
+# 101-vraudio-lschatzl
 
 ### Project description: 
 This project serves as sample project for spatial audio. 
@@ -32,18 +32,20 @@ Tested on Oculus Rift S
 Screenshots (concept and experience), Video
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+models for dog and cat
 
 ### Project state: 
-2%/100% finished
-<progress max="100" value="2"></progress>
+30%/100% finished
+<progress max="100" value="30"></progress>
 
-### Limitations: 
+### Limitations:
+I didn't know anything worked, i barely
 
 ### Lessons Learned:
 Scriptable Objects
 how to use SteamVR
 how to utalize the SteamVR Sample Scene
 How to use Unity Animator
+how to work with spacial audio
 
 Copyright by lschatzl :)
