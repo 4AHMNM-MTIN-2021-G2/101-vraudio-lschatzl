@@ -39,7 +39,7 @@ models for dog and cat
 <progress max="100" value="30"></progress>
 
 ### Limitations:
-I didn't know anything worked, i barely
+I didn't know how anything worked, i tried for hours but nothing helped
 
 ### Lessons Learned:
 Scriptable Objects
